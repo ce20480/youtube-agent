@@ -1,0 +1,565 @@
+{
+    "metadata": {
+        "video_url": "https://www.youtube.com/watch?v=EJrPKB25p-0&t=8s",
+        "channel_name": "Jake Kang",
+        "video_title": "Day in the Life of a Software Engineer Building an AI Startup | First Feature &  MVP",
+        "publish_date": "2024-11-11",
+        "duration": "PT6M17S",
+        "tags": [
+            "startup",
+            "ai",
+            "day in the life",
+            "mvp"
+        ]
+    },
+    "transcript": [
+        {
+            "text": "Music",
+            "at": "00:00"
+        },
+        {
+            "text": "Music",
+            "at": "00:12"
+        },
+        {
+            "text": "so I've been trying something a little",
+            "at": "00:28"
+        },
+        {
+            "text": "bit different where I've been blocking",
+            "at": "00:30"
+        },
+        {
+            "text": "out my entire day on a calendar just to",
+            "at": "00:31"
+        },
+        {
+            "text": "give myself some sense of direction and",
+            "at": "00:34"
+        },
+        {
+            "text": "also hold myself accountable to",
+            "at": "00:37"
+        },
+        {
+            "text": "something a goal to the end of the week",
+            "at": "00:39"
+        },
+        {
+            "text": "and also I've been I've gotten new mics",
+            "at": "00:42"
+        },
+        {
+            "text": "from DJI because I was getting tired of",
+            "at": "00:45"
+        },
+        {
+            "text": "holding the big one my pre previous",
+            "at": "00:47"
+        },
+        {
+            "text": "videos and I also saw a lot of other",
+            "at": "00:50"
+        },
+        {
+            "text": "YouTubers using this mic so I'll try it",
+            "at": "00:52"
+        },
+        {
+            "text": "out and for the next couple hours before",
+            "at": "00:55"
+        },
+        {
+            "text": "I go to the gym I'm just going to try to",
+            "at": "00:57"
+        },
+        {
+            "text": "crank out some work be a little bit",
+            "at": "00:59"
+        },
+        {
+            "text": "productive and we'll see how it goes so",
+            "at": "01:01"
+        },
+        {
+            "text": "we've been working on a feature that",
+            "at": "01:03"
+        },
+        {
+            "text": "finds warm connections for you uh based",
+            "at": "01:05"
+        },
+        {
+            "text": "on a text input that you have so let's",
+            "at": "01:08"
+        },
+        {
+            "text": "say that I was an AI startup that was",
+            "at": "01:11"
+        },
+        {
+            "text": "looking for people just on the cusp of",
+            "at": "01:13"
+        },
+        {
+            "text": "trying to build a startup that's my",
+            "at": "01:17"
+        },
+        {
+            "text": "ideal customer profile and those are the",
+            "at": "01:19"
+        },
+        {
+            "text": "people I want to talk",
+            "at": "01:21"
+        },
+        {
+            "text": "to if we look at this let's say we have",
+            "at": "01:22"
+        },
+        {
+            "text": "people who want to start",
+            "at": "01:26"
+        },
+        {
+            "text": "a startup it'll look through your first",
+            "at": "01:30"
+        },
+        {
+            "text": "degree and second de degree connections",
+            "at": "01:34"
+        },
+        {
+            "text": "it will ideally in the future look",
+            "at": "01:37"
+        },
+        {
+            "text": "through other sorts of data sources and",
+            "at": "01:39"
+        },
+        {
+            "text": "find people who you can reach out to and",
+            "at": "01:42"
+        },
+        {
+            "text": "talk to this would be mainly used for",
+            "at": "01:43"
+        },
+        {
+            "text": "idea validation or just trying to find",
+            "at": "01:46"
+        },
+        {
+            "text": "people that you can connect with in",
+            "at": "01:49"
+        },
+        {
+            "text": "terms of mentors ideal customers Etc and",
+            "at": "01:50"
+        },
+        {
+            "text": "really help with warm intros right",
+            "at": "01:55"
+        },
+        {
+            "text": "because we found that cold email have",
+            "at": "01:58"
+        },
+        {
+            "text": "tended to be really bad for reaching out",
+            "at": "02:00"
+        },
+        {
+            "text": "to people",
+            "at": "02:02"
+        },
+        {
+            "text": "Music",
+            "at": "02:04"
+        },
+        {
+            "text": "Music",
+            "at": "02:09"
+        },
+        {
+            "text": "as I become more active on Reddit X",
+            "at": "02:30"
+        },
+        {
+            "text": "email and YouTube one thing that I keep",
+            "at": "02:33"
+        },
+        {
+            "text": "seeing over and over again is MVP as a",
+            "at": "02:35"
+        },
+        {
+            "text": "service or Dev agencies offering to",
+            "at": "02:39"
+        },
+        {
+            "text": "build MVP for others and they're",
+            "at": "02:42"
+        },
+        {
+            "text": "charging you know almost 5,000 just to",
+            "at": "02:45"
+        },
+        {
+            "text": "build an MVP in a few weeks and maybe",
+            "at": "02:47"
+        },
+        {
+            "text": "it's my search history but I just feel",
+            "at": "02:50"
+        },
+        {
+            "text": "like it's flooding my homepages when I",
+            "at": "02:52"
+        },
+        {
+            "text": "first started working on this we built",
+            "at": "02:54"
+        },
+        {
+            "text": "our MVP from the ground up trying to",
+            "at": "02:56"
+        },
+        {
+            "text": "figure out what different Dev tools we",
+            "at": "02:58"
+        },
+        {
+            "text": "wanted to try and use what different",
+            "at": "03:01"
+        },
+        {
+            "text": "Services we can leverage to save time so",
+            "at": "03:02"
+        },
+        {
+            "text": "one thing we're going to do is we're",
+            "at": "03:05"
+        },
+        {
+            "text": "going to open source an MVP boiler plate",
+            "at": "03:06"
+        },
+        {
+            "text": "or template that we use to spin up all",
+            "at": "03:09"
+        },
+        {
+            "text": "the different MVPs or ideas that we have",
+            "at": "03:11"
+        },
+        {
+            "text": "because as Founders or even people",
+            "at": "03:14"
+        },
+        {
+            "text": "thinking about business ideas you want",
+            "at": "03:17"
+        },
+        {
+            "text": "to you have a ton of ideas and you also",
+            "at": "03:19"
+        },
+        {
+            "text": "probably want to be able to try to",
+            "at": "03:22"
+        },
+        {
+            "text": "prototype a lot of them very quickly and",
+            "at": "03:23"
+        },
+        {
+            "text": "we open source it because we don't",
+            "at": "03:26"
+        },
+        {
+            "text": "really see a need to pay wallet or make",
+            "at": "03:27"
+        },
+        {
+            "text": "money off of it and we want to enable",
+            "at": "03:29"
+        },
+        {
+            "text": "people to build it as quickly as",
+            "at": "03:31"
+        },
+        {
+            "text": "possible personally I also don't really",
+            "at": "03:34"
+        },
+        {
+            "text": "want to become a Dev agency or an MVP as",
+            "at": "03:36"
+        },
+        {
+            "text": "a service that's just something that I'm",
+            "at": "03:39"
+        },
+        {
+            "text": "not really interested in so the idea is",
+            "at": "03:41"
+        },
+        {
+            "text": "that more technical people can just Fork",
+            "at": "03:43"
+        },
+        {
+            "text": "it and spin up their own MVP quickly",
+            "at": "03:45"
+        },
+        {
+            "text": "lastly some feedback I got on the",
+            "at": "03:48"
+        },
+        {
+            "text": "landing page was that it was a little",
+            "at": "03:49"
+        },
+        {
+            "text": "bit too generic there wasn't really much",
+            "at": "03:51"
+        },
+        {
+            "text": "to it and it wasn't really clear the",
+            "at": "03:53"
+        },
+        {
+            "text": "problem we were solving or what our Pro",
+            "at": "03:55"
+        },
+        {
+            "text": "product actually does and so I'm going",
+            "at": "03:58"
+        },
+        {
+            "text": "to plan on reworking it for a different",
+            "at": "04:00"
+        },
+        {
+            "text": "idea that I had and see if it's a little",
+            "at": "04:02"
+        },
+        {
+            "text": "bit more clear one thing I never really",
+            "at": "04:05"
+        },
+        {
+            "text": "got to do was talk about why I quit my",
+            "at": "04:07"
+        },
+        {
+            "text": "job in the first place to start the",
+            "at": "04:10"
+        },
+        {
+            "text": "startup founder Journey right out of",
+            "at": "04:11"
+        },
+        {
+            "text": "college I used to work at Microsoft",
+            "at": "04:12"
+        },
+        {
+            "text": "under the office umbrella so under",
+            "at": "04:14"
+        },
+        {
+            "text": "officecom I worked on a pretty small",
+            "at": "04:17"
+        },
+        {
+            "text": "component of that entire service I would",
+            "at": "04:19"
+        },
+        {
+            "text": "say that's pretty common in big Tech",
+            "at": "04:22"
+        },
+        {
+            "text": "where you are part of a team that works",
+            "at": "04:23"
+        },
+        {
+            "text": "on a very small part of a big machine",
+            "at": "04:26"
+        },
+        {
+            "text": "but the up site is that MIG machine is",
+            "at": "04:28"
+        },
+        {
+            "text": "used by a ton of people in our case half",
+            "at": "04:31"
+        },
+        {
+            "text": "a billion people every single month so I",
+            "at": "04:34"
+        },
+        {
+            "text": "got to do a lot of cool projects",
+            "at": "04:37"
+        },
+        {
+            "text": "especially during the the co-pilot wave",
+            "at": "04:38"
+        },
+        {
+            "text": "and a lot of my work was rigorously",
+            "at": "04:42"
+        },
+        {
+            "text": "reviewed by you know really smart people",
+            "at": "04:45"
+        },
+        {
+            "text": "so I got to learn a lot the downside is",
+            "at": "04:47"
+        },
+        {
+            "text": "that because we are serving so many",
+            "at": "04:50"
+        },
+        {
+            "text": "people and all the changes that we",
+            "at": "04:53"
+        },
+        {
+            "text": "pushed out have to be working from the",
+            "at": "04:55"
+        },
+        {
+            "text": "get-go it did take a lot of time to get",
+            "at": "04:57"
+        },
+        {
+            "text": "these feature shipped out and if",
+            "at": "04:59"
+        },
+        {
+            "text": "anything did go wrong you would have to",
+            "at": "05:01"
+        },
+        {
+            "text": "spend a lot of time writing an",
+            "at": "05:03"
+        },
+        {
+            "text": "exhaustive postmortem essentially a",
+            "at": "05:04"
+        },
+        {
+            "text": "really long document detailing what the",
+            "at": "05:06"
+        },
+        {
+            "text": "root cause was how you fixed it how",
+            "at": "05:08"
+        },
+        {
+            "text": "you're going to prevent it from the",
+            "at": "05:10"
+        },
+        {
+            "text": "future and I left after a couple years",
+            "at": "05:12"
+        },
+        {
+            "text": "because I just wanted more ownership of",
+            "at": "05:16"
+        },
+        {
+            "text": "my work and a faster paced environment",
+            "at": "05:17"
+        },
+        {
+            "text": "where we'd be shipping more and more so",
+            "at": "05:20"
+        },
+        {
+            "text": "I joined a early to midsized AI startup",
+            "at": "05:22"
+        },
+        {
+            "text": "called cogntive and there I actually got",
+            "at": "05:26"
+        },
+        {
+            "text": "to build a lot of cool stuff I did a lot",
+            "at": "05:29"
+        },
+        {
+            "text": "of Greenfield work and I got to meet a",
+            "at": "05:31"
+        },
+        {
+            "text": "lot of cool people But as time went on",
+            "at": "05:33"
+        },
+        {
+            "text": "and I think the desire to start my own",
+            "at": "05:36"
+        },
+        {
+            "text": "company just grew more and more where I",
+            "at": "05:39"
+        },
+        {
+            "text": "really just wanted to jump in and take",
+            "at": "05:42"
+        },
+        {
+            "text": "the plunge now at that point I did save",
+            "at": "05:44"
+        },
+        {
+            "text": "enough money to live for at least a year",
+            "at": "05:46"
+        },
+        {
+            "text": "so I wouldn't really recommend it unless",
+            "at": "05:49"
+        },
+        {
+            "text": "you were comfortable without having an",
+            "at": "05:52"
+        },
+        {
+            "text": "income for an extended period amount of",
+            "at": "05:54"
+        },
+        {
+            "text": "time or you received funding a lot of",
+            "at": "05:55"
+        },
+        {
+            "text": "Founders that I talk to say say don't do",
+            "at": "05:58"
+        },
+        {
+            "text": "it until you receive funding right but",
+            "at": "06:00"
+        },
+        {
+            "text": "if you do have any questions about my",
+            "at": "06:02"
+        },
+        {
+            "text": "previous work experience I'd be happy to",
+            "at": "06:04"
+        },
+        {
+            "text": "answer them and until next time",
+            "at": "06:06"
+        },
+        {
+            "text": "Music",
+            "at": "06:09"
+        }
+    ]
+}
